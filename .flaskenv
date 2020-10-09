@@ -1,1 +1,6 @@
 FLASK_APP=microblog.py
+MAIL_SERVER=localhost
+MAIL_PORT=8025
+FLASK_DEBUG=0
+MAIL_USERNAME=username
+MAIL_PASSWORD=password
